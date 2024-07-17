@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "AIagents"
+  site-url: "https://apingali.github.io/AIagents"
+  description: "Building highly skilled AI agents"
+  repo-branch: main
+  repo-url: "https://github.com/apingali/AIagents"
